@@ -1,0 +1,6 @@
+name: pulumi-it-pros
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: test out pulumi with azure
